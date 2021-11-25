@@ -1,0 +1,13 @@
+body{
+    color:maroon;
+    background:linear-gradient(#96ffe0 0%, #96ffb0 50%,#96bbff 100% );
+}
+.heading{
+    width:80%;
+    font-size:25px;
+    color:rgb(255, 127, 127);
+    background:black;
+}
+.name_of_objects{
+    color:navy;
+}
